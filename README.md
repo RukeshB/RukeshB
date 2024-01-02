@@ -2,13 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 Rails Developer
 ---------------
-I am a competent young, energetic, and passionate programmer with more than 1 year of experience in different stacks.* 
-🌍  I'm based in Bhaktapur Nepal* 
-🖥️  See my portfolio at [RukeshB](http://portfolio.rukeshb.com.np/)* 
-✉️  You can contact me at [rukeshbasukala@gmail.com](mailto:rukeshbasukala@gmail.com)*
-🚀  I'm currently working on [fleetpanda](http://app.fleetpanda.com)* 
-🧠  I'm learning React* 
-🤝  I'm open to collaborating on interesting projects
+I am a competent young, energetic, and passionate programmer with more than 1 year of experience in different stacks.
+* 🌍  I'm based in Bhaktapur Nepal
+* 🖥️  See my portfolio at [RukeshB](http://portfolio.rukeshb.com.np/)
+* ✉️  You can contact me at [rukeshbasukala@gmail.com](mailto:rukeshbasukala@gmail.com)
+* 🚀  I'm currently working on [fleetpanda](http://app.fleetpanda.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/RukeshB" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RukeshB?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
