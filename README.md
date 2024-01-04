@@ -31,4 +31,4 @@ src="https://img.shields.io/github/followers/RukeshB?logo=github&style=for-the-b
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RukeshB/RukeshB/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="profile-3d-contrib/profile-night-green.svg" />
+<!-- <img src="profile-3d-contrib/profile-night-green.svg" /> -->
