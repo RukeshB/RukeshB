@@ -11,7 +11,7 @@ I am a competent young, energetic, and passionate programmer with more than 1 ye
 * 🌍  I'm based in Bhaktapur Nepal
 * 🖥️  See my portfolio at [RukeshB](http://portfolio.rukeshb.com.np/)
 * ✉️  You can contact me at [rukeshbasukala@gmail.com](mailto:rukeshbasukala@gmail.com)
-* 🚀  I'm currently working on [fleetpanda]([http://app.fleetpanda.com](https://www.fleetpanda.com/))
+* 🚀  I'm currently working on [fleetpanda](https://www.fleetpanda.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 
